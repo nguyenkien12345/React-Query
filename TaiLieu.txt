@@ -1,0 +1,2 @@
++ useMutation được sử dụng cho những request làm thay đổi data như POST,PUT,DELETE
++ queryClient.invalidateQueries('key-word') lấy lại danh sách mới nhất sau khi cập nhật/thêm, xoá dữ liệu
